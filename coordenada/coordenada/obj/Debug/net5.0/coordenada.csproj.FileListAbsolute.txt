@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Kevin\SII\banco\coordenada\coordenada\obj\Debug\net5.0\coordenada.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Kevin\SII\banco\coordenada\coordenada\obj\Debug\net5.0\coordenada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Kevin\SII\banco\coordenada\coordenada\obj\Debug\net5.0\coordenada.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Kevin\SII\banco\coordenada\coordenada\obj\Debug\net5.0\coordenada.AssemblyInfo.cs
+C:\Users\user\Desktop\Kevin\SII\banco\coordenada\coordenada\obj\Debug\net5.0\coordenada.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Kevin\SII\banco\coordenada\coordenada\bin\Debug\net5.0\coordenada.exe
+C:\Users\user\Desktop\Kevin\SII\banco\coordenada\coordenada\bin\Debug\net5.0\coordenada.deps.json
+C:\Users\user\Desktop\Kevin\SII\banco\coordenada\coordenada\bin\Debug\net5.0\coordenada.runtimeconfig.json
+C:\Users\user\Desktop\Kevin\SII\banco\coordenada\coordenada\bin\Debug\net5.0\coordenada.runtimeconfig.dev.json
+C:\Users\user\Desktop\Kevin\SII\banco\coordenada\coordenada\bin\Debug\net5.0\coordenada.dll
+C:\Users\user\Desktop\Kevin\SII\banco\coordenada\coordenada\bin\Debug\net5.0\ref\coordenada.dll
+C:\Users\user\Desktop\Kevin\SII\banco\coordenada\coordenada\bin\Debug\net5.0\coordenada.pdb
+C:\Users\user\Desktop\Kevin\SII\banco\coordenada\coordenada\obj\Debug\net5.0\coordenada.dll
+C:\Users\user\Desktop\Kevin\SII\banco\coordenada\coordenada\obj\Debug\net5.0\ref\coordenada.dll
+C:\Users\user\Desktop\Kevin\SII\banco\coordenada\coordenada\obj\Debug\net5.0\coordenada.pdb
+C:\Users\user\Desktop\Kevin\SII\banco\coordenada\coordenada\obj\Debug\net5.0\coordenada.genruntimeconfig.cache

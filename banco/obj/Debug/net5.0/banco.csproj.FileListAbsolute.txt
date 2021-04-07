@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Kevin\SII\banco\banco\bin\Debug\net5.0\banco.exe
+C:\Users\user\Desktop\Kevin\SII\banco\banco\bin\Debug\net5.0\banco.deps.json
+C:\Users\user\Desktop\Kevin\SII\banco\banco\bin\Debug\net5.0\banco.runtimeconfig.json
+C:\Users\user\Desktop\Kevin\SII\banco\banco\bin\Debug\net5.0\banco.runtimeconfig.dev.json
+C:\Users\user\Desktop\Kevin\SII\banco\banco\bin\Debug\net5.0\banco.dll
+C:\Users\user\Desktop\Kevin\SII\banco\banco\bin\Debug\net5.0\ref\banco.dll
+C:\Users\user\Desktop\Kevin\SII\banco\banco\bin\Debug\net5.0\banco.pdb
+C:\Users\user\Desktop\Kevin\SII\banco\banco\obj\Debug\net5.0\banco.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Kevin\SII\banco\banco\obj\Debug\net5.0\banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Kevin\SII\banco\banco\obj\Debug\net5.0\banco.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Kevin\SII\banco\banco\obj\Debug\net5.0\banco.AssemblyInfo.cs
+C:\Users\user\Desktop\Kevin\SII\banco\banco\obj\Debug\net5.0\banco.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Kevin\SII\banco\banco\obj\Debug\net5.0\banco.dll
+C:\Users\user\Desktop\Kevin\SII\banco\banco\obj\Debug\net5.0\ref\banco.dll
+C:\Users\user\Desktop\Kevin\SII\banco\banco\obj\Debug\net5.0\banco.pdb
+C:\Users\user\Desktop\Kevin\SII\banco\banco\obj\Debug\net5.0\banco.genruntimeconfig.cache
